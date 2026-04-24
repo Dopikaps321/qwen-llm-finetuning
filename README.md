@@ -60,16 +60,3 @@ Training or fully fine-tuning large language models is computationally expensive
 7. Perform inference using prompt templates  
 8. Deploy using Gradio interface  
 
----
-
-## 📂 Project Structure
-qwen-root-cause-llm/
-│
-├── README.md
-├── requirements.txt
-├── train.py
-├── inference.py
-├── app.py
-├── utils.py
-├── sample_data.jsonl
-└── screenshots/
